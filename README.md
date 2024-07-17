@@ -1,0 +1,1 @@
+Lombok is a visually appealing website developed by taking design inspiration from Pinterest. Utilizing HTML and CSS, I meticulously crafted a clean and user-friendly interface that mirrors the modern aesthetics of Pinterest's design. 
